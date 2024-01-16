@@ -1,6 +1,6 @@
 ## University of St Andrews Year 1 
 
-# CS1007 Assignment 2 Project 
+# CS1007 Assignment 1 Project 
 
 For this practical, I needed to produce a number of scripts to automatically download a set of data files and extract some useful information from them.
 
