@@ -12,4 +12,4 @@ The last part should calculate the mean (average) duration of each route provide
 
 ## Result
 
-This Assignment was graded as a 19 of 20, a strong First-Class Grade, passing all unit tests provided.
+This Assignment was graded as a 19 of 20, a strong First-Class Grade.
